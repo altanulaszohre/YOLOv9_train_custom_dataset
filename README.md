@@ -4,6 +4,8 @@ This project involves training a model using YOLOv9 to detect 8 different emotio
 
 
 Dataset Name: Facial Expression Image Data AFFECTNET YOLO Format
+![image](https://github.com/altanulaszohre/YOLOv9-train-custom-dataset/assets/111522957/5cbae123-55af-4651-8a24-31becf1cfdd5)
+
 
 
 
