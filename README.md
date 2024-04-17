@@ -4,4 +4,7 @@ This project involves training a model using YOLOv9 to detect 8 different emotio
 
 
 Dataset Name: Facial Expression Image Data AFFECTNET YOLO Format
-Dataset Link: Facial Expression Image Data AFFECTNET YOLO Format
+
+
+
+Dataset Link: [Facial Expression Image Data AFFECTNET YOLO Format](https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format)
