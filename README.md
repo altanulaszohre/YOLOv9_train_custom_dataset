@@ -69,3 +69,6 @@ This project is open-sourced under the MIT License.
 
 - [YOLOv9](https://github.com/WongKinYiu/yolov9) developers
 - [AffectNet Dataset](https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format)
+
+
+***Altan Ulaş Zöhre***
